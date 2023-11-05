@@ -1,0 +1,14 @@
+{
+  "name": "natural",
+  "version": "1.0.0",
+  "description": "This application was built to analyze sentiments in sentences using Natural - https://naturalnode.github.io/natural/.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "natural": "^6.8.0"
+  }
+}
