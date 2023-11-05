@@ -3,14 +3,17 @@
 
 ## NLP - Natural Language Processing 
 É um campo da inteligência artificial - IA - que se concentra na interação entre computadores e linguagem humana. O principal objetivo do NLP é permitir que os computadores compreendam, interpretem e gerem texto ou fala de maneira semelhante à linguagem humana. - PT/BR
+
 Natural Language Processing - NLP - is a field of artificial intelligence - AI - that focuses on the interaction between computers and human language. The primary goal of NLP is to enable computers to understand, interpret, and generate text or speech in a manner similar to human language. - ENGLISH
 
 ### Sentiment Analysis
 A Análise de Sentimento é uma aplicação específica do NLP que se concentra na extração e avaliação das emoções e opiniões expressas em texto. - PT/BR
+
 Sentiment Analysis is a specific application of NLP that focuses on extracting and evaluating the emotions and opinions expressed in text. - ENGLISH
 
 ## Natural
 Natural.js é uma biblioteca de JavaScript que usa Processamento de Linguagem Natural - NLP - para compreender e responder a comandos em linguagem natural. A biblioteca é usada para criar chatbots, assistentes virtuais e outras aplicações de processamento de texto que envolvem interações com usuários. - PT/BR
+
 Natural.js is a JavaScript library that utilizes Natural Language Processing - NLP - to understand and respond to natural language commands. The library is used to create chatbots, virtual assistants, and other text processing applications that involve interactions with users. - ENGLISH
 
 ## Installation
