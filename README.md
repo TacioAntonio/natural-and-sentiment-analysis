@@ -2,7 +2,7 @@
 > This application was built to analyze sentiments in sentences using [Natural](https://naturalnode.github.io/natural/)
 
 ## NLP - Natural Language Processing 
-É um campo da inteligência artificial - IA - que se concentra na interação entre computadores e linguagem humana. O principal objetivo do PLN é permitir que os computadores compreendam, interpretem e gerem texto ou fala de maneira semelhante à linguagem humana.
+É um campo da inteligência artificial - IA - que se concentra na interação entre computadores e linguagem humana. O principal objetivo do NLP é permitir que os computadores compreendam, interpretem e gerem texto ou fala de maneira semelhante à linguagem humana.
 
 ### Sentiment Analysis
 A Análise de Sentimento é uma aplicação específica do PLN que se concentra na extração e avaliação das emoções e opiniões expressas em texto.
